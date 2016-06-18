@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 	id="cordova-crop-image-plugin"
-	version="1.0.0-dev">
+	version="1.0.0">
 	<name>Cordova Crop Image Plugin</name>
 	
 	<description>Cordova Crop Image Plugin</description>
